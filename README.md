@@ -249,3 +249,4 @@ All 85 tests pass with **0 warnings** and **0 failures**.
 ## License & Attribution
 
 Developed for *The Relay* Advanced RAG Architecture. Academic papers cited are attributed under standard scientific citation conventions.
+
