@@ -1,0 +1,7 @@
+pymupdf
+tiktoken
+sentence-transformers
+faiss-cpu
+numpy
+groq
+python-dotenv

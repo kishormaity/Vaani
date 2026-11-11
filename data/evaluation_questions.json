@@ -1,0 +1,166 @@
+[
+  {
+    "id": "q01",
+    "category": "factual",
+    "target_papers": ["1706.03762"],
+    "question": "What is the mathematical formula for Scaled Dot-Product Attention in the Transformer architecture, and why is the scaling factor applied?",
+    "ground_truth_answer": "Scaled Dot-Product Attention is computed as Attention(Q, K, V) = softmax(Q * K^T / sqrt(d_k)) * V. The scaling factor 1/sqrt(d_k) is applied because for large values of d_k, the dot products grow large in magnitude, pushing the softmax function into regions with extremely small gradients.",
+    "expected_citations": [
+      {"arxiv_id": "1706.03762v7", "page": 4}
+    ],
+    "should_refuse": false
+  },
+  {
+    "id": "q02",
+    "category": "factual",
+    "target_papers": ["1706.03762"],
+    "question": "What are the key architectural hyperparameters for the base Transformer model, specifically the number of layers, model dimension d_model, number of attention heads h, and feed-forward inner dimension d_ff?",
+    "ground_truth_answer": "In the base Transformer model, both the encoder and decoder have N = 6 layers, with model dimension d_model = 512, inner feed-forward dimension d_ff = 2048, and h = 8 parallel attention heads with d_k = d_v = 64.",
+    "expected_citations": [
+      {"arxiv_id": "1706.03762v7", "page": 9}
+    ],
+    "should_refuse": false
+  },
+  {
+    "id": "q03",
+    "category": "factual",
+    "target_papers": ["2410.00037"],
+    "question": "What is the theoretical conversational latency and the practical overall latency achieved by the Moshi spoken dialogue framework?",
+    "ground_truth_answer": "Moshi achieves a theoretical conversational latency of 160 ms (comprising an 80 ms audio frame size plus an 80 ms acoustic lookahead) and an overall practical latency of approximately 200 ms under deployed conditions.",
+    "expected_citations": [
+      {"arxiv_id": "2410.00037v1", "page": 1}
+    ],
+    "should_refuse": false
+  },
+  {
+    "id": "q04",
+    "category": "factual",
+    "target_papers": ["2410.00037"],
+    "question": "What neural audio codec does Moshi employ, and what is its frame rate and transmission bit rate?",
+    "ground_truth_answer": "Moshi employs the Mimi neural audio codec, which tokenizes 24kHz audio into discrete tokens operating at a frame rate of 12.5 Hz and an audio bandwidth/bit rate of 1.1 kbps.",
+    "expected_citations": [
+      {"arxiv_id": "2410.00037v1", "page": 3}
+    ],
+    "should_refuse": false
+  },
+  {
+    "id": "q05",
+    "category": "factual",
+    "target_papers": ["2507.07955"],
+    "question": "How does Dynamic Chunking identify token segment boundaries compared to traditional fixed-window chunking?",
+    "ground_truth_answer": "Dynamic Chunking dynamically determines segment boundaries using token transition entropy and structural boundary predictors rather than static fixed token windows, thereby preserving cohesive semantic units and reducing cross-boundary fragmentation.",
+    "expected_citations": [
+      {"arxiv_id": "2507.07955v2", "page": 2}
+    ],
+    "should_refuse": false
+  },
+  {
+    "id": "q06",
+    "category": "factual",
+    "target_papers": ["2507.07955"],
+    "question": "What is the primary motivation for employing hierarchical sequence modeling in conjunction with dynamic chunking?",
+    "ground_truth_answer": "Standard sequence models suffer from quadratic computational complexity with sequence length and struggle with multi-scale semantic structures. Hierarchical sequence modeling with dynamic chunking groups tokens into variable-length semantic units, reducing effective sequence length for higher-level layers while capturing both local and document-level context.",
+    "expected_citations": [
+      {"arxiv_id": "2507.07955v2", "page": 1}
+    ],
+    "should_refuse": false
+  },
+  {
+    "id": "q07",
+    "category": "comparative",
+    "target_papers": ["1706.03762", "2410.00037"],
+    "question": "How does the sequence modeling approach in Moshi's Helium backbone differ from the standard Transformer architecture introduced by Vaswani et al.?",
+    "ground_truth_answer": "While the standard Transformer uses an encoder-decoder architecture with bidirectional self-attention in the encoder and cross-attention for offline batch sequence-to-sequence tasks, Moshi's Helium backbone is an auto-regressive, causal Transformer designed for real-time full-duplex dialogue, processing interleaved text and audio token streams with strict causal masking to prevent looking into the future.",
+    "expected_citations": [
+      {"arxiv_id": "1706.03762v7", "page": 3},
+      {"arxiv_id": "2410.00037v1", "page": 6}
+    ],
+    "should_refuse": false
+  },
+  {
+    "id": "q08",
+    "category": "comparative",
+    "target_papers": ["1706.03762", "2507.07955"],
+    "question": "How does the quadratic computational complexity of self-attention in the standard Transformer relate to the problem that Dynamic Chunking solves?",
+    "ground_truth_answer": "Vaswani et al. establishes that self-attention per-layer computational complexity scales as O(n^2 * d) with sequence length n. Dynamic Chunking directly addresses this bottleneck by compressing sequences into variable-length chunks, reducing the effective sequence length n passed to subsequent hierarchical layers and enabling efficient attention over long documents.",
+    "expected_citations": [
+      {"arxiv_id": "1706.03762v7", "page": 6},
+      {"arxiv_id": "2507.07955v2", "page": 1}
+    ],
+    "should_refuse": false
+  },
+  {
+    "id": "q09",
+    "category": "comparative",
+    "target_papers": ["2410.00037", "2507.07955"],
+    "question": "Compare how Moshi and Dynamic Chunking handle the challenge of temporal or sequential granularity in long sequence processing.",
+    "ground_truth_answer": "Moshi compresses continuous 24kHz audio into discrete tokens at a fixed temporal rate of 12.5 Hz using the Mimi neural codec, while Dynamic Chunking dynamically adjusts segment lengths according to entropy and semantic boundary predictors, adapting granularity based on structural content.",
+    "expected_citations": [
+      {"arxiv_id": "2410.00037v1", "page": 3},
+      {"arxiv_id": "2507.07955v2", "page": 2}
+    ],
+    "should_refuse": false
+  },
+  {
+    "id": "q10",
+    "category": "comparative",
+    "target_papers": ["1706.03762", "2410.00037"],
+    "question": "How do the latency and streaming constraints of the Transformer in machine translation compare to the full-duplex conversational requirements of Moshi?",
+    "ground_truth_answer": "The Transformer was designed for offline, non-streaming machine translation where the complete input sentence is ingested before generating output tokens via beam search. In contrast, Moshi operates under strict real-time streaming constraints where the model must listen to user speech and synthesize agent speech concurrently with low latency (160ms theoretical / 200ms practical) to handle conversational turn-taking and natural interruptions.",
+    "expected_citations": [
+      {"arxiv_id": "1706.03762v7", "page": 7},
+      {"arxiv_id": "2410.00037v1", "page": 1}
+    ],
+    "should_refuse": false
+  },
+  {
+    "id": "q11",
+    "category": "comparative",
+    "target_papers": ["1706.03762", "2410.00037", "2507.07955"],
+    "question": "What are the primary modalities and experimental benchmark tasks evaluated across the three research papers?",
+    "ground_truth_answer": "Vaswani et al. evaluates text-to-text machine translation benchmarks (WMT 2014 English-to-German and English-to-French); Moshi evaluates full-duplex audio-and-text real-time spoken dialogue; and Dynamic Chunking evaluates long-document text modeling and hierarchical sequence segmentation tasks.",
+    "expected_citations": [
+      {"arxiv_id": "1706.03762v7", "page": 1},
+      {"arxiv_id": "2410.00037v1", "page": 1},
+      {"arxiv_id": "2507.07955v2", "page": 1}
+    ],
+    "should_refuse": false
+  },
+  {
+    "id": "q12",
+    "category": "unanswerable",
+    "target_papers": [],
+    "question": "What specific reinforcement learning and post-training hyperparameters were used to fine-tune OpenAI's GPT-4 model?",
+    "ground_truth_answer": "The provided research papers do not contain any information about OpenAI's GPT-4, its training mixture, or its post-training hyperparameters.",
+    "expected_citations": [],
+    "should_refuse": true
+  },
+  {
+    "id": "q13",
+    "category": "unanswerable",
+    "target_papers": [],
+    "question": "How does quantum key distribution maintain security against eavesdropping in the BB84 protocol?",
+    "ground_truth_answer": "The provided research papers focus exclusively on Transformer architectures, real-time spoken dialogue (Moshi), and dynamic chunking; they do not contain any information on quantum key distribution or quantum cryptography protocols.",
+    "expected_citations": [],
+    "should_refuse": true
+  },
+  {
+    "id": "q14",
+    "category": "unanswerable",
+    "target_papers": ["1706.03762"],
+    "question": "What was the BLEU score of the base Transformer model on Japanese-to-English translation in Vaswani et al.?",
+    "ground_truth_answer": "Vaswani et al. only evaluated the Transformer architecture on English-to-German and English-to-French translation benchmarks; the paper does not report any experiments, evaluations, or BLEU scores for Japanese-to-English translation.",
+    "expected_citations": [],
+    "should_refuse": true
+  },
+  {
+    "id": "q15",
+    "category": "unanswerable",
+    "target_papers": ["2410.00037"],
+    "question": "What was the commercial retail price and hardware cooling configuration of the GPU cluster used to train the Moshi model?",
+    "ground_truth_answer": "The Moshi research paper does not discuss or disclose commercial retail prices or cooling specifications of the hardware infrastructure used during model training.",
+    "expected_citations": [],
+    "should_refuse": true
+  }
+]
+

@@ -1,0 +1,29 @@
+# Environment variables and secrets
+.env
+*.env
+!.env.example
+
+# Python virtual environment & bytecode
+.venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Testing and test caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# OS metadata & Editor settings
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

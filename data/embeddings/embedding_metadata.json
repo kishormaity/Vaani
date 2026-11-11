@@ -1,0 +1,3951 @@
+{
+  "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+  "dimension": 384,
+  "total_embeddings": 254,
+  "normalized": true,
+  "embeddings": [
+    {
+      "vector_index": 0,
+      "chunk_id": "1706.03762_c0001",
+      "paper_id": "1706.03762",
+      "title": "Attention Is All You Need",
+      "version": 7,
+      "source_filename": "Attention_Is_All_You_Need_v7.pdf",
+      "source_page_numbers": [
+        1
+      ],
+      "chunk_index": 1,
+      "token_count": 487,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 1,
+      "chunk_id": "1706.03762_c0002",
+      "paper_id": "1706.03762",
+      "title": "Attention Is All You Need",
+      "version": 7,
+      "source_filename": "Attention_Is_All_You_Need_v7.pdf",
+      "source_page_numbers": [
+        1,
+        2
+      ],
+      "chunk_index": 2,
+      "token_count": 459,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 2,
+      "chunk_id": "1706.03762_c0003",
+      "paper_id": "1706.03762",
+      "title": "Attention Is All You Need",
+      "version": 7,
+      "source_filename": "Attention_Is_All_You_Need_v7.pdf",
+      "source_page_numbers": [
+        2
+      ],
+      "chunk_index": 3,
+      "token_count": 472,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 3,
+      "chunk_id": "1706.03762_c0004",
+      "paper_id": "1706.03762",
+      "title": "Attention Is All You Need",
+      "version": 7,
+      "source_filename": "Attention_Is_All_You_Need_v7.pdf",
+      "source_page_numbers": [
+        2,
+        3
+      ],
+      "chunk_index": 4,
+      "token_count": 497,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 4,
+      "chunk_id": "1706.03762_c0005",
+      "paper_id": "1706.03762",
+      "title": "Attention Is All You Need",
+      "version": 7,
+      "source_filename": "Attention_Is_All_You_Need_v7.pdf",
+      "source_page_numbers": [
+        3,
+        4
+      ],
+      "chunk_index": 5,
+      "token_count": 475,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 5,
+      "chunk_id": "1706.03762_c0006",
+      "paper_id": "1706.03762",
+      "title": "Attention Is All You Need",
+      "version": 7,
+      "source_filename": "Attention_Is_All_You_Need_v7.pdf",
+      "source_page_numbers": [
+        4,
+        5
+      ],
+      "chunk_index": 6,
+      "token_count": 484,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 6,
+      "chunk_id": "1706.03762_c0007",
+      "paper_id": "1706.03762",
+      "title": "Attention Is All You Need",
+      "version": 7,
+      "source_filename": "Attention_Is_All_You_Need_v7.pdf",
+      "source_page_numbers": [
+        5
+      ],
+      "chunk_index": 7,
+      "token_count": 478,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 7,
+      "chunk_id": "1706.03762_c0008",
+      "paper_id": "1706.03762",
+      "title": "Attention Is All You Need",
+      "version": 7,
+      "source_filename": "Attention_Is_All_You_Need_v7.pdf",
+      "source_page_numbers": [
+        5,
+        6
+      ],
+      "chunk_index": 8,
+      "token_count": 484,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 8,
+      "chunk_id": "1706.03762_c0009",
+      "paper_id": "1706.03762",
+      "title": "Attention Is All You Need",
+      "version": 7,
+      "source_filename": "Attention_Is_All_You_Need_v7.pdf",
+      "source_page_numbers": [
+        6
+      ],
+      "chunk_index": 9,
+      "token_count": 469,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 9,
+      "chunk_id": "1706.03762_c0010",
+      "paper_id": "1706.03762",
+      "title": "Attention Is All You Need",
+      "version": 7,
+      "source_filename": "Attention_Is_All_You_Need_v7.pdf",
+      "source_page_numbers": [
+        6,
+        7
+      ],
+      "chunk_index": 10,
+      "token_count": 473,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 10,
+      "chunk_id": "1706.03762_c0011",
+      "paper_id": "1706.03762",
+      "title": "Attention Is All You Need",
+      "version": 7,
+      "source_filename": "Attention_Is_All_You_Need_v7.pdf",
+      "source_page_numbers": [
+        7
+      ],
+      "chunk_index": 11,
+      "token_count": 471,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 11,
+      "chunk_id": "1706.03762_c0012",
+      "paper_id": "1706.03762",
+      "title": "Attention Is All You Need",
+      "version": 7,
+      "source_filename": "Attention_Is_All_You_Need_v7.pdf",
+      "source_page_numbers": [
+        7,
+        8
+      ],
+      "chunk_index": 12,
+      "token_count": 478,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 12,
+      "chunk_id": "1706.03762_c0013",
+      "paper_id": "1706.03762",
+      "title": "Attention Is All You Need",
+      "version": 7,
+      "source_filename": "Attention_Is_All_You_Need_v7.pdf",
+      "source_page_numbers": [
+        8
+      ],
+      "chunk_index": 13,
+      "token_count": 473,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 13,
+      "chunk_id": "1706.03762_c0014",
+      "paper_id": "1706.03762",
+      "title": "Attention Is All You Need",
+      "version": 7,
+      "source_filename": "Attention_Is_All_You_Need_v7.pdf",
+      "source_page_numbers": [
+        8,
+        9
+      ],
+      "chunk_index": 14,
+      "token_count": 232,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 14,
+      "chunk_id": "1706.03762_c0015",
+      "paper_id": "1706.03762",
+      "title": "Attention Is All You Need",
+      "version": 7,
+      "source_filename": "Attention_Is_All_You_Need_v7.pdf",
+      "source_page_numbers": [
+        8,
+        9
+      ],
+      "chunk_index": 15,
+      "token_count": 463,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 15,
+      "chunk_id": "1706.03762_c0016",
+      "paper_id": "1706.03762",
+      "title": "Attention Is All You Need",
+      "version": 7,
+      "source_filename": "Attention_Is_All_You_Need_v7.pdf",
+      "source_page_numbers": [
+        9,
+        10
+      ],
+      "chunk_index": 16,
+      "token_count": 498,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 16,
+      "chunk_id": "1706.03762_c0017",
+      "paper_id": "1706.03762",
+      "title": "Attention Is All You Need",
+      "version": 7,
+      "source_filename": "Attention_Is_All_You_Need_v7.pdf",
+      "source_page_numbers": [
+        9,
+        10
+      ],
+      "chunk_index": 17,
+      "token_count": 484,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 17,
+      "chunk_id": "1706.03762_c0018",
+      "paper_id": "1706.03762",
+      "title": "Attention Is All You Need",
+      "version": 7,
+      "source_filename": "Attention_Is_All_You_Need_v7.pdf",
+      "source_page_numbers": [
+        10,
+        11
+      ],
+      "chunk_index": 18,
+      "token_count": 495,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 18,
+      "chunk_id": "1706.03762_c0019",
+      "paper_id": "1706.03762",
+      "title": "Attention Is All You Need",
+      "version": 7,
+      "source_filename": "Attention_Is_All_You_Need_v7.pdf",
+      "source_page_numbers": [
+        10,
+        11
+      ],
+      "chunk_index": 19,
+      "token_count": 482,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 19,
+      "chunk_id": "1706.03762_c0020",
+      "paper_id": "1706.03762",
+      "title": "Attention Is All You Need",
+      "version": 7,
+      "source_filename": "Attention_Is_All_You_Need_v7.pdf",
+      "source_page_numbers": [
+        11
+      ],
+      "chunk_index": 20,
+      "token_count": 490,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 20,
+      "chunk_id": "1706.03762_c0021",
+      "paper_id": "1706.03762",
+      "title": "Attention Is All You Need",
+      "version": 7,
+      "source_filename": "Attention_Is_All_You_Need_v7.pdf",
+      "source_page_numbers": [
+        11,
+        12
+      ],
+      "chunk_index": 21,
+      "token_count": 476,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 21,
+      "chunk_id": "1706.03762_c0022",
+      "paper_id": "1706.03762",
+      "title": "Attention Is All You Need",
+      "version": 7,
+      "source_filename": "Attention_Is_All_You_Need_v7.pdf",
+      "source_page_numbers": [
+        12
+      ],
+      "chunk_index": 22,
+      "token_count": 494,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 22,
+      "chunk_id": "1706.03762_c0023",
+      "paper_id": "1706.03762",
+      "title": "Attention Is All You Need",
+      "version": 7,
+      "source_filename": "Attention_Is_All_You_Need_v7.pdf",
+      "source_page_numbers": [
+        12,
+        13
+      ],
+      "chunk_index": 23,
+      "token_count": 498,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 23,
+      "chunk_id": "1706.03762_c0024",
+      "paper_id": "1706.03762",
+      "title": "Attention Is All You Need",
+      "version": 7,
+      "source_filename": "Attention_Is_All_You_Need_v7.pdf",
+      "source_page_numbers": [
+        13,
+        14
+      ],
+      "chunk_index": 24,
+      "token_count": 336,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 24,
+      "chunk_id": "1706.03762_c0025",
+      "paper_id": "1706.03762",
+      "title": "Attention Is All You Need",
+      "version": 7,
+      "source_filename": "Attention_Is_All_You_Need_v7.pdf",
+      "source_page_numbers": [
+        14,
+        15
+      ],
+      "chunk_index": 25,
+      "token_count": 319,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 25,
+      "chunk_id": "2507.07955_c0001",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        1
+      ],
+      "chunk_index": 1,
+      "token_count": 452,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 26,
+      "chunk_id": "2507.07955_c0002",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        1
+      ],
+      "chunk_index": 2,
+      "token_count": 452,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 27,
+      "chunk_id": "2507.07955_c0003",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        1,
+        2
+      ],
+      "chunk_index": 3,
+      "token_count": 484,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 28,
+      "chunk_id": "2507.07955_c0004",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        2
+      ],
+      "chunk_index": 4,
+      "token_count": 486,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 29,
+      "chunk_id": "2507.07955_c0005",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        2,
+        3
+      ],
+      "chunk_index": 5,
+      "token_count": 442,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 30,
+      "chunk_id": "2507.07955_c0006",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        3,
+        4
+      ],
+      "chunk_index": 6,
+      "token_count": 488,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 31,
+      "chunk_id": "2507.07955_c0007",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        4
+      ],
+      "chunk_index": 7,
+      "token_count": 482,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 32,
+      "chunk_id": "2507.07955_c0008",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        4,
+        5
+      ],
+      "chunk_index": 8,
+      "token_count": 366,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 33,
+      "chunk_id": "2507.07955_c0009",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        5
+      ],
+      "chunk_index": 9,
+      "token_count": 448,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 34,
+      "chunk_id": "2507.07955_c0010",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        5
+      ],
+      "chunk_index": 10,
+      "token_count": 475,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 35,
+      "chunk_id": "2507.07955_c0011",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        5,
+        6
+      ],
+      "chunk_index": 11,
+      "token_count": 475,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 36,
+      "chunk_id": "2507.07955_c0012",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        6
+      ],
+      "chunk_index": 12,
+      "token_count": 466,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 37,
+      "chunk_id": "2507.07955_c0013",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        6,
+        7
+      ],
+      "chunk_index": 13,
+      "token_count": 370,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 38,
+      "chunk_id": "2507.07955_c0014",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        6,
+        7
+      ],
+      "chunk_index": 14,
+      "token_count": 481,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 39,
+      "chunk_id": "2507.07955_c0015",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        7
+      ],
+      "chunk_index": 15,
+      "token_count": 470,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 40,
+      "chunk_id": "2507.07955_c0016",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        7,
+        8
+      ],
+      "chunk_index": 16,
+      "token_count": 406,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 41,
+      "chunk_id": "2507.07955_c0017",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        8
+      ],
+      "chunk_index": 17,
+      "token_count": 346,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 42,
+      "chunk_id": "2507.07955_c0018",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        8
+      ],
+      "chunk_index": 18,
+      "token_count": 463,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 43,
+      "chunk_id": "2507.07955_c0019",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        8,
+        9
+      ],
+      "chunk_index": 19,
+      "token_count": 491,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 44,
+      "chunk_id": "2507.07955_c0020",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        8,
+        9
+      ],
+      "chunk_index": 20,
+      "token_count": 494,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 45,
+      "chunk_id": "2507.07955_c0021",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        9
+      ],
+      "chunk_index": 21,
+      "token_count": 449,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 46,
+      "chunk_id": "2507.07955_c0022",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        9,
+        10
+      ],
+      "chunk_index": 22,
+      "token_count": 479,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 47,
+      "chunk_id": "2507.07955_c0023",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        10
+      ],
+      "chunk_index": 23,
+      "token_count": 450,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 48,
+      "chunk_id": "2507.07955_c0024",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        10,
+        11
+      ],
+      "chunk_index": 24,
+      "token_count": 469,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 49,
+      "chunk_id": "2507.07955_c0025",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        11
+      ],
+      "chunk_index": 25,
+      "token_count": 35,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 50,
+      "chunk_id": "2507.07955_c0026",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        11
+      ],
+      "chunk_index": 26,
+      "token_count": 480,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 51,
+      "chunk_id": "2507.07955_c0027",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        11
+      ],
+      "chunk_index": 27,
+      "token_count": 445,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 52,
+      "chunk_id": "2507.07955_c0028",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        11,
+        12
+      ],
+      "chunk_index": 28,
+      "token_count": 498,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 53,
+      "chunk_id": "2507.07955_c0029",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        12
+      ],
+      "chunk_index": 29,
+      "token_count": 455,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 54,
+      "chunk_id": "2507.07955_c0030",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        12
+      ],
+      "chunk_index": 30,
+      "token_count": 456,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 55,
+      "chunk_id": "2507.07955_c0031",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        12,
+        13
+      ],
+      "chunk_index": 31,
+      "token_count": 499,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 56,
+      "chunk_id": "2507.07955_c0032",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        13
+      ],
+      "chunk_index": 32,
+      "token_count": 142,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 57,
+      "chunk_id": "2507.07955_c0033",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        13
+      ],
+      "chunk_index": 33,
+      "token_count": 58,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 58,
+      "chunk_id": "2507.07955_c0034",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        13
+      ],
+      "chunk_index": 34,
+      "token_count": 495,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 59,
+      "chunk_id": "2507.07955_c0035",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        13,
+        14
+      ],
+      "chunk_index": 35,
+      "token_count": 460,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 60,
+      "chunk_id": "2507.07955_c0036",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        14
+      ],
+      "chunk_index": 36,
+      "token_count": 58,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 61,
+      "chunk_id": "2507.07955_c0037",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        14
+      ],
+      "chunk_index": 37,
+      "token_count": 23,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 62,
+      "chunk_id": "2507.07955_c0038",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        14
+      ],
+      "chunk_index": 38,
+      "token_count": 491,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 63,
+      "chunk_id": "2507.07955_c0039",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        14
+      ],
+      "chunk_index": 39,
+      "token_count": 484,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 64,
+      "chunk_id": "2507.07955_c0040",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        14,
+        15
+      ],
+      "chunk_index": 40,
+      "token_count": 466,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 65,
+      "chunk_id": "2507.07955_c0041",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        15
+      ],
+      "chunk_index": 41,
+      "token_count": 485,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 66,
+      "chunk_id": "2507.07955_c0042",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        15
+      ],
+      "chunk_index": 42,
+      "token_count": 486,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 67,
+      "chunk_id": "2507.07955_c0043",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        15
+      ],
+      "chunk_index": 43,
+      "token_count": 492,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 68,
+      "chunk_id": "2507.07955_c0044",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        15
+      ],
+      "chunk_index": 44,
+      "token_count": 457,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 69,
+      "chunk_id": "2507.07955_c0045",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        15,
+        16
+      ],
+      "chunk_index": 45,
+      "token_count": 485,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 70,
+      "chunk_id": "2507.07955_c0046",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        16
+      ],
+      "chunk_index": 46,
+      "token_count": 477,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 71,
+      "chunk_id": "2507.07955_c0047",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        16,
+        17
+      ],
+      "chunk_index": 47,
+      "token_count": 465,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 72,
+      "chunk_id": "2507.07955_c0048",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        17
+      ],
+      "chunk_index": 48,
+      "token_count": 465,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 73,
+      "chunk_id": "2507.07955_c0049",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        17
+      ],
+      "chunk_index": 49,
+      "token_count": 467,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 74,
+      "chunk_id": "2507.07955_c0050",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        17,
+        18
+      ],
+      "chunk_index": 50,
+      "token_count": 430,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 75,
+      "chunk_id": "2507.07955_c0051",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        18
+      ],
+      "chunk_index": 51,
+      "token_count": 480,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 76,
+      "chunk_id": "2507.07955_c0052",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        18,
+        19
+      ],
+      "chunk_index": 52,
+      "token_count": 495,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 77,
+      "chunk_id": "2507.07955_c0053",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        19
+      ],
+      "chunk_index": 53,
+      "token_count": 445,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 78,
+      "chunk_id": "2507.07955_c0054",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        19,
+        20
+      ],
+      "chunk_index": 54,
+      "token_count": 456,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 79,
+      "chunk_id": "2507.07955_c0055",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        20
+      ],
+      "chunk_index": 55,
+      "token_count": 483,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 80,
+      "chunk_id": "2507.07955_c0056",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        20,
+        21
+      ],
+      "chunk_index": 56,
+      "token_count": 500,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 81,
+      "chunk_id": "2507.07955_c0057",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        22
+      ],
+      "chunk_index": 57,
+      "token_count": 497,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 82,
+      "chunk_id": "2507.07955_c0058",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        22
+      ],
+      "chunk_index": 58,
+      "token_count": 459,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 83,
+      "chunk_id": "2507.07955_c0059",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        22,
+        23
+      ],
+      "chunk_index": 59,
+      "token_count": 500,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 84,
+      "chunk_id": "2507.07955_c0060",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        23
+      ],
+      "chunk_index": 60,
+      "token_count": 465,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 85,
+      "chunk_id": "2507.07955_c0061",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        23
+      ],
+      "chunk_index": 61,
+      "token_count": 476,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 86,
+      "chunk_id": "2507.07955_c0062",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        23,
+        24,
+        25
+      ],
+      "chunk_index": 62,
+      "token_count": 500,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 87,
+      "chunk_id": "2507.07955_c0063",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        25
+      ],
+      "chunk_index": 63,
+      "token_count": 496,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 88,
+      "chunk_id": "2507.07955_c0064",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        25
+      ],
+      "chunk_index": 64,
+      "token_count": 494,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 89,
+      "chunk_id": "2507.07955_c0065",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        25,
+        26
+      ],
+      "chunk_index": 65,
+      "token_count": 483,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 90,
+      "chunk_id": "2507.07955_c0066",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        26
+      ],
+      "chunk_index": 66,
+      "token_count": 497,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 91,
+      "chunk_id": "2507.07955_c0067",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        26
+      ],
+      "chunk_index": 67,
+      "token_count": 488,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 92,
+      "chunk_id": "2507.07955_c0068",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        26,
+        27
+      ],
+      "chunk_index": 68,
+      "token_count": 470,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 93,
+      "chunk_id": "2507.07955_c0069",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        27
+      ],
+      "chunk_index": 69,
+      "token_count": 493,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 94,
+      "chunk_id": "2507.07955_c0070",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        27
+      ],
+      "chunk_index": 70,
+      "token_count": 500,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 95,
+      "chunk_id": "2507.07955_c0071",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        27
+      ],
+      "chunk_index": 71,
+      "token_count": 447,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 96,
+      "chunk_id": "2507.07955_c0072",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        27,
+        28
+      ],
+      "chunk_index": 72,
+      "token_count": 465,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 97,
+      "chunk_id": "2507.07955_c0073",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        28
+      ],
+      "chunk_index": 73,
+      "token_count": 486,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 98,
+      "chunk_id": "2507.07955_c0074",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        28
+      ],
+      "chunk_index": 74,
+      "token_count": 481,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 99,
+      "chunk_id": "2507.07955_c0075",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        28,
+        29
+      ],
+      "chunk_index": 75,
+      "token_count": 493,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 100,
+      "chunk_id": "2507.07955_c0076",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        28,
+        29
+      ],
+      "chunk_index": 76,
+      "token_count": 455,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 101,
+      "chunk_id": "2507.07955_c0077",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        29
+      ],
+      "chunk_index": 77,
+      "token_count": 465,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 102,
+      "chunk_id": "2507.07955_c0078",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        29
+      ],
+      "chunk_index": 78,
+      "token_count": 497,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 103,
+      "chunk_id": "2507.07955_c0079",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        29,
+        30
+      ],
+      "chunk_index": 79,
+      "token_count": 446,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 104,
+      "chunk_id": "2507.07955_c0080",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        30,
+        31
+      ],
+      "chunk_index": 80,
+      "token_count": 436,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 105,
+      "chunk_id": "2507.07955_c0081",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        30,
+        31
+      ],
+      "chunk_index": 81,
+      "token_count": 467,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 106,
+      "chunk_id": "2507.07955_c0082",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        31,
+        32
+      ],
+      "chunk_index": 82,
+      "token_count": 500,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 107,
+      "chunk_id": "2507.07955_c0083",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        31,
+        32
+      ],
+      "chunk_index": 83,
+      "token_count": 468,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 108,
+      "chunk_id": "2507.07955_c0084",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        32
+      ],
+      "chunk_index": 84,
+      "token_count": 498,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 109,
+      "chunk_id": "2507.07955_c0085",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        32,
+        33
+      ],
+      "chunk_index": 85,
+      "token_count": 489,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 110,
+      "chunk_id": "2507.07955_c0086",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        33
+      ],
+      "chunk_index": 86,
+      "token_count": 497,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 111,
+      "chunk_id": "2507.07955_c0087",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        33,
+        34
+      ],
+      "chunk_index": 87,
+      "token_count": 486,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 112,
+      "chunk_id": "2507.07955_c0088",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        34
+      ],
+      "chunk_index": 88,
+      "token_count": 483,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 113,
+      "chunk_id": "2507.07955_c0089",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        34,
+        35
+      ],
+      "chunk_index": 89,
+      "token_count": 493,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 114,
+      "chunk_id": "2507.07955_c0090",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        35
+      ],
+      "chunk_index": 90,
+      "token_count": 474,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 115,
+      "chunk_id": "2507.07955_c0091",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        35,
+        36
+      ],
+      "chunk_index": 91,
+      "token_count": 485,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 116,
+      "chunk_id": "2507.07955_c0092",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        36,
+        37
+      ],
+      "chunk_index": 92,
+      "token_count": 422,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 117,
+      "chunk_id": "2507.07955_c0093",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        36,
+        37
+      ],
+      "chunk_index": 93,
+      "token_count": 498,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 118,
+      "chunk_id": "2507.07955_c0094",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        37
+      ],
+      "chunk_index": 94,
+      "token_count": 492,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 119,
+      "chunk_id": "2507.07955_c0095",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        37,
+        38
+      ],
+      "chunk_index": 95,
+      "token_count": 500,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 120,
+      "chunk_id": "2507.07955_c0096",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        38
+      ],
+      "chunk_index": 96,
+      "token_count": 497,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 121,
+      "chunk_id": "2507.07955_c0097",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        38,
+        39
+      ],
+      "chunk_index": 97,
+      "token_count": 489,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 122,
+      "chunk_id": "2507.07955_c0098",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        39
+      ],
+      "chunk_index": 98,
+      "token_count": 430,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 123,
+      "chunk_id": "2507.07955_c0099",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        39
+      ],
+      "chunk_index": 99,
+      "token_count": 470,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 124,
+      "chunk_id": "2507.07955_c0100",
+      "paper_id": "2507.07955",
+      "title": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+      "version": 2,
+      "source_filename": "Dynamic_Chunking_v2.pdf",
+      "source_page_numbers": [
+        39
+      ],
+      "chunk_index": 100,
+      "token_count": 443,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 125,
+      "chunk_id": "2410.00037_c0001",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        1
+      ],
+      "chunk_index": 1,
+      "token_count": 499,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 126,
+      "chunk_id": "2410.00037_c0002",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        1,
+        2
+      ],
+      "chunk_index": 2,
+      "token_count": 470,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 127,
+      "chunk_id": "2410.00037_c0003",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        2,
+        3
+      ],
+      "chunk_index": 3,
+      "token_count": 480,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 128,
+      "chunk_id": "2410.00037_c0004",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        3
+      ],
+      "chunk_index": 4,
+      "token_count": 475,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 129,
+      "chunk_id": "2410.00037_c0005",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        3,
+        4
+      ],
+      "chunk_index": 5,
+      "token_count": 490,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 130,
+      "chunk_id": "2410.00037_c0006",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        4
+      ],
+      "chunk_index": 6,
+      "token_count": 484,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 131,
+      "chunk_id": "2410.00037_c0007",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        4,
+        5
+      ],
+      "chunk_index": 7,
+      "token_count": 405,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 132,
+      "chunk_id": "2410.00037_c0008",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        4,
+        5
+      ],
+      "chunk_index": 8,
+      "token_count": 480,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 133,
+      "chunk_id": "2410.00037_c0009",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        5
+      ],
+      "chunk_index": 9,
+      "token_count": 484,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 134,
+      "chunk_id": "2410.00037_c0010",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        5,
+        6
+      ],
+      "chunk_index": 10,
+      "token_count": 488,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 135,
+      "chunk_id": "2410.00037_c0011",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        6,
+        7
+      ],
+      "chunk_index": 11,
+      "token_count": 455,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 136,
+      "chunk_id": "2410.00037_c0012",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        7
+      ],
+      "chunk_index": 12,
+      "token_count": 498,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 137,
+      "chunk_id": "2410.00037_c0013",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        7,
+        8
+      ],
+      "chunk_index": 13,
+      "token_count": 354,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 138,
+      "chunk_id": "2410.00037_c0014",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        8
+      ],
+      "chunk_index": 14,
+      "token_count": 471,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 139,
+      "chunk_id": "2410.00037_c0015",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        8,
+        9
+      ],
+      "chunk_index": 15,
+      "token_count": 456,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 140,
+      "chunk_id": "2410.00037_c0016",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        9
+      ],
+      "chunk_index": 16,
+      "token_count": 492,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 141,
+      "chunk_id": "2410.00037_c0017",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        9,
+        10
+      ],
+      "chunk_index": 17,
+      "token_count": 493,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 142,
+      "chunk_id": "2410.00037_c0018",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        10,
+        11
+      ],
+      "chunk_index": 18,
+      "token_count": 454,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 143,
+      "chunk_id": "2410.00037_c0019",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        11
+      ],
+      "chunk_index": 19,
+      "token_count": 494,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 144,
+      "chunk_id": "2410.00037_c0020",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        11,
+        12
+      ],
+      "chunk_index": 20,
+      "token_count": 455,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 145,
+      "chunk_id": "2410.00037_c0021",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        12
+      ],
+      "chunk_index": 21,
+      "token_count": 489,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 146,
+      "chunk_id": "2410.00037_c0022",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        12,
+        13
+      ],
+      "chunk_index": 22,
+      "token_count": 483,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 147,
+      "chunk_id": "2410.00037_c0023",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        13
+      ],
+      "chunk_index": 23,
+      "token_count": 492,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 148,
+      "chunk_id": "2410.00037_c0024",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        13,
+        14
+      ],
+      "chunk_index": 24,
+      "token_count": 436,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 149,
+      "chunk_id": "2410.00037_c0025",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        14
+      ],
+      "chunk_index": 25,
+      "token_count": 474,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 150,
+      "chunk_id": "2410.00037_c0026",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        14,
+        15
+      ],
+      "chunk_index": 26,
+      "token_count": 490,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 151,
+      "chunk_id": "2410.00037_c0027",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        15,
+        16
+      ],
+      "chunk_index": 27,
+      "token_count": 483,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 152,
+      "chunk_id": "2410.00037_c0028",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        16
+      ],
+      "chunk_index": 28,
+      "token_count": 475,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 153,
+      "chunk_id": "2410.00037_c0029",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        16,
+        17
+      ],
+      "chunk_index": 29,
+      "token_count": 465,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 154,
+      "chunk_id": "2410.00037_c0030",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        17
+      ],
+      "chunk_index": 30,
+      "token_count": 495,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 155,
+      "chunk_id": "2410.00037_c0031",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        17,
+        18
+      ],
+      "chunk_index": 31,
+      "token_count": 458,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 156,
+      "chunk_id": "2410.00037_c0032",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        18
+      ],
+      "chunk_index": 32,
+      "token_count": 482,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 157,
+      "chunk_id": "2410.00037_c0033",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        18,
+        19
+      ],
+      "chunk_index": 33,
+      "token_count": 477,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 158,
+      "chunk_id": "2410.00037_c0034",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        19,
+        20
+      ],
+      "chunk_index": 34,
+      "token_count": 496,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 159,
+      "chunk_id": "2410.00037_c0035",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        20
+      ],
+      "chunk_index": 35,
+      "token_count": 457,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 160,
+      "chunk_id": "2410.00037_c0036",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        20,
+        21
+      ],
+      "chunk_index": 36,
+      "token_count": 485,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 161,
+      "chunk_id": "2410.00037_c0037",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        21
+      ],
+      "chunk_index": 37,
+      "token_count": 389,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 162,
+      "chunk_id": "2410.00037_c0038",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        21,
+        22
+      ],
+      "chunk_index": 38,
+      "token_count": 407,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 163,
+      "chunk_id": "2410.00037_c0039",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        21,
+        22
+      ],
+      "chunk_index": 39,
+      "token_count": 445,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 164,
+      "chunk_id": "2410.00037_c0040",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        22
+      ],
+      "chunk_index": 40,
+      "token_count": 493,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 165,
+      "chunk_id": "2410.00037_c0041",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        22,
+        23
+      ],
+      "chunk_index": 41,
+      "token_count": 304,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 166,
+      "chunk_id": "2410.00037_c0042",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        23
+      ],
+      "chunk_index": 42,
+      "token_count": 484,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 167,
+      "chunk_id": "2410.00037_c0043",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        23
+      ],
+      "chunk_index": 43,
+      "token_count": 483,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 168,
+      "chunk_id": "2410.00037_c0044",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        23,
+        24
+      ],
+      "chunk_index": 44,
+      "token_count": 487,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 169,
+      "chunk_id": "2410.00037_c0045",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        24
+      ],
+      "chunk_index": 45,
+      "token_count": 481,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 170,
+      "chunk_id": "2410.00037_c0046",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        24,
+        25
+      ],
+      "chunk_index": 46,
+      "token_count": 459,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 171,
+      "chunk_id": "2410.00037_c0047",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        25
+      ],
+      "chunk_index": 47,
+      "token_count": 456,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 172,
+      "chunk_id": "2410.00037_c0048",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        25,
+        26
+      ],
+      "chunk_index": 48,
+      "token_count": 476,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 173,
+      "chunk_id": "2410.00037_c0049",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        26
+      ],
+      "chunk_index": 49,
+      "token_count": 458,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 174,
+      "chunk_id": "2410.00037_c0050",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        26,
+        27
+      ],
+      "chunk_index": 50,
+      "token_count": 261,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 175,
+      "chunk_id": "2410.00037_c0051",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        27
+      ],
+      "chunk_index": 51,
+      "token_count": 483,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 176,
+      "chunk_id": "2410.00037_c0052",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        27,
+        28
+      ],
+      "chunk_index": 52,
+      "token_count": 500,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 177,
+      "chunk_id": "2410.00037_c0053",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        27,
+        28
+      ],
+      "chunk_index": 53,
+      "token_count": 490,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 178,
+      "chunk_id": "2410.00037_c0054",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        28,
+        29
+      ],
+      "chunk_index": 54,
+      "token_count": 483,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 179,
+      "chunk_id": "2410.00037_c0055",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        29
+      ],
+      "chunk_index": 55,
+      "token_count": 454,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 180,
+      "chunk_id": "2410.00037_c0056",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        29,
+        30
+      ],
+      "chunk_index": 56,
+      "token_count": 447,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 181,
+      "chunk_id": "2410.00037_c0057",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        30
+      ],
+      "chunk_index": 57,
+      "token_count": 444,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 182,
+      "chunk_id": "2410.00037_c0058",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        30
+      ],
+      "chunk_index": 58,
+      "token_count": 496,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 183,
+      "chunk_id": "2410.00037_c0059",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        30,
+        31
+      ],
+      "chunk_index": 59,
+      "token_count": 463,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 184,
+      "chunk_id": "2410.00037_c0060",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        31,
+        32
+      ],
+      "chunk_index": 60,
+      "token_count": 468,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 185,
+      "chunk_id": "2410.00037_c0061",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        31,
+        32
+      ],
+      "chunk_index": 61,
+      "token_count": 463,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 186,
+      "chunk_id": "2410.00037_c0062",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        32
+      ],
+      "chunk_index": 62,
+      "token_count": 459,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 187,
+      "chunk_id": "2410.00037_c0063",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        32,
+        33
+      ],
+      "chunk_index": 63,
+      "token_count": 445,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 188,
+      "chunk_id": "2410.00037_c0064",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        33
+      ],
+      "chunk_index": 64,
+      "token_count": 481,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 189,
+      "chunk_id": "2410.00037_c0065",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        33
+      ],
+      "chunk_index": 65,
+      "token_count": 53,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 190,
+      "chunk_id": "2410.00037_c0066",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        33
+      ],
+      "chunk_index": 66,
+      "token_count": 21,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 191,
+      "chunk_id": "2410.00037_c0067",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        34
+      ],
+      "chunk_index": 67,
+      "token_count": 500,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 192,
+      "chunk_id": "2410.00037_c0068",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        34
+      ],
+      "chunk_index": 68,
+      "token_count": 496,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 193,
+      "chunk_id": "2410.00037_c0069",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        34,
+        35
+      ],
+      "chunk_index": 69,
+      "token_count": 314,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 194,
+      "chunk_id": "2410.00037_c0070",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        35
+      ],
+      "chunk_index": 70,
+      "token_count": 490,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 195,
+      "chunk_id": "2410.00037_c0071",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        35,
+        36
+      ],
+      "chunk_index": 71,
+      "token_count": 487,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 196,
+      "chunk_id": "2410.00037_c0072",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        36,
+        37
+      ],
+      "chunk_index": 72,
+      "token_count": 480,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 197,
+      "chunk_id": "2410.00037_c0073",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        36,
+        37
+      ],
+      "chunk_index": 73,
+      "token_count": 479,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 198,
+      "chunk_id": "2410.00037_c0074",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        37,
+        38
+      ],
+      "chunk_index": 74,
+      "token_count": 496,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 199,
+      "chunk_id": "2410.00037_c0075",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        38,
+        39
+      ],
+      "chunk_index": 75,
+      "token_count": 457,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 200,
+      "chunk_id": "2410.00037_c0076",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        38,
+        39
+      ],
+      "chunk_index": 76,
+      "token_count": 500,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 201,
+      "chunk_id": "2410.00037_c0077",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        39,
+        40
+      ],
+      "chunk_index": 77,
+      "token_count": 475,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 202,
+      "chunk_id": "2410.00037_c0078",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        40
+      ],
+      "chunk_index": 78,
+      "token_count": 59,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 203,
+      "chunk_id": "2410.00037_c0079",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        40
+      ],
+      "chunk_index": 79,
+      "token_count": 486,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 204,
+      "chunk_id": "2410.00037_c0080",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        40,
+        41
+      ],
+      "chunk_index": 80,
+      "token_count": 496,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 205,
+      "chunk_id": "2410.00037_c0081",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        41
+      ],
+      "chunk_index": 81,
+      "token_count": 484,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 206,
+      "chunk_id": "2410.00037_c0082",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        41,
+        42
+      ],
+      "chunk_index": 82,
+      "token_count": 490,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 207,
+      "chunk_id": "2410.00037_c0083",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        42
+      ],
+      "chunk_index": 83,
+      "token_count": 416,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 208,
+      "chunk_id": "2410.00037_c0084",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        42,
+        43
+      ],
+      "chunk_index": 84,
+      "token_count": 487,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 209,
+      "chunk_id": "2410.00037_c0085",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        43
+      ],
+      "chunk_index": 85,
+      "token_count": 479,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 210,
+      "chunk_id": "2410.00037_c0086",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        43,
+        44
+      ],
+      "chunk_index": 86,
+      "token_count": 499,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 211,
+      "chunk_id": "2410.00037_c0087",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        44
+      ],
+      "chunk_index": 87,
+      "token_count": 497,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 212,
+      "chunk_id": "2410.00037_c0088",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        44,
+        45
+      ],
+      "chunk_index": 88,
+      "token_count": 481,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 213,
+      "chunk_id": "2410.00037_c0089",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        45
+      ],
+      "chunk_index": 89,
+      "token_count": 466,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 214,
+      "chunk_id": "2410.00037_c0090",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        45,
+        46
+      ],
+      "chunk_index": 90,
+      "token_count": 493,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 215,
+      "chunk_id": "2410.00037_c0091",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        45,
+        46
+      ],
+      "chunk_index": 91,
+      "token_count": 476,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 216,
+      "chunk_id": "2410.00037_c0092",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        46
+      ],
+      "chunk_index": 92,
+      "token_count": 489,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 217,
+      "chunk_id": "2410.00037_c0093",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        46,
+        47
+      ],
+      "chunk_index": 93,
+      "token_count": 446,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 218,
+      "chunk_id": "2410.00037_c0094",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        47
+      ],
+      "chunk_index": 94,
+      "token_count": 491,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 219,
+      "chunk_id": "2410.00037_c0095",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        47,
+        48
+      ],
+      "chunk_index": 95,
+      "token_count": 489,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 220,
+      "chunk_id": "2410.00037_c0096",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        48
+      ],
+      "chunk_index": 96,
+      "token_count": 490,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 221,
+      "chunk_id": "2410.00037_c0097",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        48,
+        49
+      ],
+      "chunk_index": 97,
+      "token_count": 496,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 222,
+      "chunk_id": "2410.00037_c0098",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        49
+      ],
+      "chunk_index": 98,
+      "token_count": 434,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 223,
+      "chunk_id": "2410.00037_c0099",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        49,
+        50
+      ],
+      "chunk_index": 99,
+      "token_count": 499,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 224,
+      "chunk_id": "2410.00037_c0100",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        50
+      ],
+      "chunk_index": 100,
+      "token_count": 499,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 225,
+      "chunk_id": "2410.00037_c0101",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        50,
+        51
+      ],
+      "chunk_index": 101,
+      "token_count": 471,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 226,
+      "chunk_id": "2410.00037_c0102",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        51
+      ],
+      "chunk_index": 102,
+      "token_count": 450,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 227,
+      "chunk_id": "2410.00037_c0103",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        51,
+        52
+      ],
+      "chunk_index": 103,
+      "token_count": 497,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 228,
+      "chunk_id": "2410.00037_c0104",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        52
+      ],
+      "chunk_index": 104,
+      "token_count": 479,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 229,
+      "chunk_id": "2410.00037_c0105",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        52
+      ],
+      "chunk_index": 105,
+      "token_count": 499,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 230,
+      "chunk_id": "2410.00037_c0106",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        52,
+        53
+      ],
+      "chunk_index": 106,
+      "token_count": 484,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 231,
+      "chunk_id": "2410.00037_c0107",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        53,
+        54
+      ],
+      "chunk_index": 107,
+      "token_count": 492,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 232,
+      "chunk_id": "2410.00037_c0108",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        54
+      ],
+      "chunk_index": 108,
+      "token_count": 474,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 233,
+      "chunk_id": "2410.00037_c0109",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        54,
+        55
+      ],
+      "chunk_index": 109,
+      "token_count": 480,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 234,
+      "chunk_id": "2410.00037_c0110",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        55,
+        56
+      ],
+      "chunk_index": 110,
+      "token_count": 499,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 235,
+      "chunk_id": "2410.00037_c0111",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        56,
+        57
+      ],
+      "chunk_index": 111,
+      "token_count": 468,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 236,
+      "chunk_id": "2410.00037_c0112",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        57,
+        58
+      ],
+      "chunk_index": 112,
+      "token_count": 497,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 237,
+      "chunk_id": "2410.00037_c0113",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        58
+      ],
+      "chunk_index": 113,
+      "token_count": 454,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 238,
+      "chunk_id": "2410.00037_c0114",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        58,
+        59
+      ],
+      "chunk_index": 114,
+      "token_count": 358,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 239,
+      "chunk_id": "2410.00037_c0115",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        59
+      ],
+      "chunk_index": 115,
+      "token_count": 386,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 240,
+      "chunk_id": "2410.00037_c0116",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        59
+      ],
+      "chunk_index": 116,
+      "token_count": 454,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 241,
+      "chunk_id": "2410.00037_c0117",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        59,
+        60,
+        61
+      ],
+      "chunk_index": 117,
+      "token_count": 443,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 242,
+      "chunk_id": "2410.00037_c0118",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        60,
+        61
+      ],
+      "chunk_index": 118,
+      "token_count": 19,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 243,
+      "chunk_id": "2410.00037_c0119",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        61
+      ],
+      "chunk_index": 119,
+      "token_count": 17,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 244,
+      "chunk_id": "2410.00037_c0120",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        61
+      ],
+      "chunk_index": 120,
+      "token_count": 490,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 245,
+      "chunk_id": "2410.00037_c0121",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        61
+      ],
+      "chunk_index": 121,
+      "token_count": 472,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 246,
+      "chunk_id": "2410.00037_c0122",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        61
+      ],
+      "chunk_index": 122,
+      "token_count": 473,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 247,
+      "chunk_id": "2410.00037_c0123",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        61,
+        62
+      ],
+      "chunk_index": 123,
+      "token_count": 486,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 248,
+      "chunk_id": "2410.00037_c0124",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        62,
+        63
+      ],
+      "chunk_index": 124,
+      "token_count": 488,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 249,
+      "chunk_id": "2410.00037_c0125",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        62,
+        63
+      ],
+      "chunk_index": 125,
+      "token_count": 465,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 250,
+      "chunk_id": "2410.00037_c0126",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        63,
+        64
+      ],
+      "chunk_index": 126,
+      "token_count": 477,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 251,
+      "chunk_id": "2410.00037_c0127",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        64,
+        65
+      ],
+      "chunk_index": 127,
+      "token_count": 495,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 252,
+      "chunk_id": "2410.00037_c0128",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        65
+      ],
+      "chunk_index": 128,
+      "token_count": 496,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    },
+    {
+      "vector_index": 253,
+      "chunk_id": "2410.00037_c0129",
+      "paper_id": "2410.00037",
+      "title": "Moshi: A Speech-Text Foundation Model for Real-Time Dialogue",
+      "version": 1,
+      "source_filename": "Moshi_v1.pdf",
+      "source_page_numbers": [
+        65,
+        66
+      ],
+      "chunk_index": 129,
+      "token_count": 410,
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "embedding_dimension": 384
+    }
+  ]
+}
